@@ -4,7 +4,7 @@
 - Scraped over 1000 job descriptions from glassdoor using python and selenium
 - Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
 - Optimized Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
-[Mobile-Price-Classification](https://github.com/Mohamed28112003/Mobile-Price-Classification/tree/main)
+## [Mobile-Price-Classification](https://github.com/Mohamed28112003/Mobile-Price-Classification/tree/main)
 -This project aims to classify the price range of mobile phones using machine learning techniques random forset.
 
 
