@@ -11,8 +11,8 @@
   understand the relationship between the different features and the target variable.
   
 ## Certificate
-## [Data Scientist in Python](https://www.datacamp.com/statement-of-accomplishment/track/0536c6e9bcec85bd82f21d8d559a647cdc78a580?raw=1)
-## [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/3Q9XJJL5G6EJ) 
-## [Data Analyst in SQL] ( https://www.datacamp.com/statement-of-accomplishment/track/945c5aee61fa8c61dfd16b3eff7e1055aea3dea5?raw=1)
+- [Data Scientist in Python](https://www.datacamp.com/statement-of-accomplishment/track/0536c6e9bcec85bd82f21d8d559a647cdc78a580?raw=1)
+- [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/3Q9XJJL5G6EJ) 
+- [Data Analyst in SQL](https://www.datacamp.com/statement-of-accomplishment/track/945c5aee61fa8c61dfd16b3eff7e1055aea3dea5?raw=1)
 
 
