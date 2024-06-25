@@ -1,7 +1,7 @@
 ## Projects
 
 ## [Egyptian Tech Salaries](https://github.com/Mohamed28112003/Egyptian_Tech_Salary_2024) 💸
--The Egyptian tech industry has been rapidly growing, attracting significant attention from both local and international companies. As the demand for tech professionals increases, understanding the salary landscape becomes crucial for job seekers and employers. This project aims to analyze the salaries of tech professionals in Egypt using about 730 volunteer after data cleaning , providing insights into the factors that influence earnings in this sector.
+- The Egyptian tech industry has been rapidly growing, attracting significant attention from both local and international companies. As the demand for tech professionals increases, understanding the salary landscape becomes crucial for job seekers and employers. This project aims to analyze the salaries of tech professionals in Egypt using about 730 volunteer after data cleaning , providing insights into the factors that influence earnings in this sector.
 ## [Data Science Salary Estimator](https://github.com/Mohamed28112003/Ds_Salary_Project) 💸
 - Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
 - Scraped over 1000 job descriptions from glassdoor using python and selenium
