@@ -10,8 +10,9 @@
 ## [Mobile-Price-Classification](https://github.com/Mohamed28112003/Mobile-Price-Classification/tree/main) 📵
 - This project aims to classify the price range of mobile phones using machine learning techniques random forset.
 ## [Heart-Disease](https://github.com/Mohamed28112003/Heart-Disease/tree/main) 🫀
-- this project aims to analyze a heart disease dataset and build machine learning models to predict the presence of heart disease in patients based on several clinical features. We will apply various preprocessing   techniques to handle missing values, encode categorical features, convert data types, remove outliers, and drop unnecessary columns. We will also perform several analysis and visualization techniques to       
-  understand the relationship between the different features and the target variable.
+- this project aims to analyze a heart disease dataset and build machine learning models to predict the presence of heart disease in patients based on several clinical features. We will apply various preprocessing   techniques to handle missing values, encode categorical features, convert data types, remove outliers, and drop unnecessary columns. We will also perform several analysis and visualization techniques to understand the relationship between the different features and the target variable.
+## [Online-Articles-Popularity](https://github.com/Mohamed28112003/Online-Articles-Popularity/tree/master)
+- The objective of this project is to predict the popularity of online articles using machine learning techniques. We have built models for both regression (to predict the number of shares) and classification (to categorize articles into popularity classes).
   
 ## Certificate
 - [Data Scientist in Python](https://www.datacamp.com/statement-of-accomplishment/track/0536c6e9bcec85bd82f21d8d559a647cdc78a580?raw=1)
