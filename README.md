@@ -1,7 +1,7 @@
 ## Projects
 
-## [Forum Discussions Categorization](https://github.com/Mohamed28112003/Forum-Discussions-Categorization.git)
-- This project focuses on categorizing forum discussions into different categories using various deep-learning models. The goal is to classify text data into one of five predefined categories by leveraging different embedding techniques and neural network architectures
+## [Forum Discussions Categorization](https://github.com/Mohamed28112003/Forum-Discussions-Categorization.git) :page_facing_up:
+- This NLP project focuses on categorizing forum discussions into different categories using various deep-learning models. The goal is to classify text data into one of five predefined categories by leveraging different embedding techniques and neural network architectures
 ## [Egyptian Tech Salaries](https://github.com/Mohamed28112003/Egyptian_Tech_Salary_2024) 💸
 - The Egyptian tech industry has been rapidly growing, attracting significant attention from both local and international companies. As the demand for tech professionals increases, understanding the salary landscape becomes crucial for job seekers and employers. This project aims to analyze the salaries of tech professionals in Egypt using about 730 volunteers after data cleaning, providing insights into the factors that influence earnings in this sector.
 ## [Data Science Salary Estimator](https://github.com/Mohamed28112003/Ds_Salary_Project) 💸
